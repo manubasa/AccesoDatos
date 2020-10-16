@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPlaceMyBet", "APIPlaceMyBet\APIPlaceMyBet.csproj", "{8D888AA5-91E4-4B53-B896-B8BEB1858844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D888AA5-91E4-4B53-B896-B8BEB1858844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D888AA5-91E4-4B53-B896-B8BEB1858844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D888AA5-91E4-4B53-B896-B8BEB1858844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D888AA5-91E4-4B53-B896-B8BEB1858844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB18BC3-06F7-472C-B91A-1A40B92A691A}
+	EndGlobalSection
+EndGlobal
